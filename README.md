@@ -7,8 +7,8 @@ Estudante de **Ciência da Computação** na Uninove (3º semestre), estou em bu
 ## Sobre
 
 - Cursando Ciência da Computação.
-- Focado em programação, desenvolvimento de sistemas e bancos de dados.
-- Interesse em Dsenvolvimento, Ciência de Dados e Inteligencia Artificial.
+- Focado em melhorar minhas habilidades e conhecimentos
+- Interesse em Desenvolvimento, Ciência de Dados e Inteligencia Artificial.
 - Estudando tecnologias como Python, Rasa e Banco de Dados.
 
 ---
