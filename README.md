@@ -1,6 +1,6 @@
 # Pedro Navarro
 
-Estudante de **Ciência da Computação** na Uninove (3º semestre), estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos , desenvolver habilidades práticas e contribuir para projetos reais.
+Estudante de **Ciência da Computação** na Uninove (3º semestre), estou em busca de uma oportunidade de estágio na area de Dados e tecnologia, aonde eu possa iniciar a minha carreira, aprender e evoluir constantemente.
 
 ---
 
@@ -8,23 +8,16 @@ Estudante de **Ciência da Computação** na Uninove (3º semestre), estou em bu
 
 - Cursando Ciência da Computação.
 - Focado em melhorar minhas habilidades e conhecimentos
-- Interesse em Desenvolvimento, Ciência de Dados e Inteligencia Artificial.
-- Estudando tecnologias como Python, Rasa e Banco de Dados.
+- Interesse em Ciência de Dados, Analise de Dados e Inteligencia Artificial.
+- Estudando tecnologias como Python, SQL e Power BI.
 
 ---
 
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=python,c,mysql,postgresql,git,vscode,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,mysql,postgresql,git,vscode)](https://skillicons.dev)
 
----
-
-## Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-navarr&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-navarr&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ---
 
 ## Contato
