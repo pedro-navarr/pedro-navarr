@@ -1,6 +1,6 @@
 # Pedro Navarro
 
-Estudante de **Ciência da Computação** na Uninove (3º semestre), estou em busca de uma oportunidade de estágio na area de Dados e tecnologia, aonde eu possa iniciar a minha carreira, aprender e evoluir constantemente.
+Estudante de **Ciência da Computação** na Uninove (4º semestre), estou em busca de uma oportunidade de estágio na area de Dados e tecnologia, aonde eu possa iniciar a minha carreira, aprender e evoluir constantemente.
 
 ---
 
